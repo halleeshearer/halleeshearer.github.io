@@ -123,7 +123,7 @@ languages:
     percent: 75
 
 hobbies:
-  -name: Hobbies
+  - name: Hobbies
     items:
       - name: Hiking
         description: ''
