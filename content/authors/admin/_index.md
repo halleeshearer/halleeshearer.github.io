@@ -148,7 +148,7 @@ awards:
   - title: Faculty of Medicine Graduate Award
     date: '2023-09-01'
     awarder: University of British Columbia
-    icon: ubc.png
+    icon: assets/media/icons/ubc.png
   - title: Best Lighning Talk
     date: '2023-06-01'
     awarder: University of British Columbia Psychiatry Research Day
