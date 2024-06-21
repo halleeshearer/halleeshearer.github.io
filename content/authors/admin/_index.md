@@ -111,29 +111,29 @@ skills:
       - name: Bash
         description: ''
         percent: 70
-        icon: ''
+        icon: {{< ico bootstrap terminal >}}
       - name: Git
         percent: 70
-        icon: git
+        icon: {{< ico bootstrap git >}}
   - name: Hobbies
     color: '#eeac02'
     color_border: '#f0bf23'
     items:
       - name: Hiking
         description: ''
-        icon: person-simple-walk
+        icon: {{< ico bootstrap person-walking >}}
       - name: Volleyball
         description: ''
-        icon: cat
+        icon: ''
       - name: Skiing
         description: ''
-        icon: skiing
+        icon: ''
       - name: Slacklining
         description: ''
-        icon: camera
+        icon: ''
       - name: Reading
         description: 'Recent favourite: The Seven Pillars of Statistical Wisdom by Stephen M. Stigler'
-        icon: book
+        icon: ''
 
 languages:
   - name: English
