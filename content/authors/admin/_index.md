@@ -103,18 +103,18 @@ skills:
       - name: R
         description: ''
         percent: 80
-        icon: chart-bar
+        icon: devicon/r
       - name: MATLAB
         description: ''
         percent: 60
-        icon: circle-stack
+        icon: devicon/matlab
       - name: Bash
         description: ''
         percent: 70
-        icon: ''
+        icon: devicon/bash
       - name: Git
         percent: 70
-        icon: ''
+        icon: devicon/git
   - name: Hobbies
     items:
       - name: Hiking
@@ -148,31 +148,31 @@ awards:
   - title: Faculty of Medicine Graduate Award
     date: '2023-09-01'
     awarder: University of British Columbia
-    icon: trophy
+    icon: hero/trophy
   - title: Best Lighning Talk
     date: '2023-06-01'
     awarder: University of British Columbia Psychiatry Research Day
-    icon: "custom/ubc"
+    icon: hero/trophy
   - title: 'Canadian Graduate Scholarship - Masters'
     date: '2022-05-01'
     awarder: Canadian Institute of Health Research (CIHR)
-    icon: "custom/cihr"
+    icon: hero/trophy
   - title: 'UBC Graduate Student Travel Award'
     date: '2022-06-01'
     awarder: University of British Columbia
-    icon: "custom/ubc"
+    icon: hero/trophy
   - title: 'UBC Graduate Program in Neuroscience Travel Award'
     date: '2022-06-01'
     awarder: University of British Columbia
-    icon: "custom/ubc"
+    icon: hero/trophy
   - title: 'Faculty of Medicine Summer Student Research Award'
     date: '2021-04-01'
     awarder: University of British Columbia
-    icon: "custom/ubc"
+    icon: hero/trophy
   - title: 'Virtual Knowledge Exchange Grant'
     date: '2021-06-01'
     awarder: BC Children's Hospital Research Institute
-    icon: "custom/bcchr"
+    icon: hero/trophy
   
   
 ---
