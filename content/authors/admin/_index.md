@@ -148,15 +148,15 @@ awards:
   - title: Faculty of Medicine Graduate Award
     date: '2023-09-01'
     awarder: University of British Columbia
-    icon: assets/media/icons/ubc.png
+    icon: /assets/media/icons/ubc.png
   - title: Best Lighning Talk
     date: '2023-06-01'
     awarder: University of British Columbia Psychiatry Research Day
-    icon: UBC
+    icon: assets/media/icons/ubc.png
   - title: 'Canadian Graduate Scholarship - Masters'
     date: '2022-05-01'
     awarder: Canadian Institute of Health Research (CIHR)
-    icon: CIHR
+    icon: /assets/media/icons/cihr.png
   - title: 'UBC Graduate Student Travel Award'
     date: '2022-06-01'
     awarder: University of British Columbia
