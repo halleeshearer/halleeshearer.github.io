@@ -121,23 +121,18 @@ skills:
     items:
       - name: Hiking
         description: ''
-        percent: 80
         icon: person-simple-walk
       - name: Volleyball
         description: ''
-        percent: 90
         icon: cat
       - name: Skiing
         description: ''
-        percent: 70
         icon: skiing
       - name: Slacklining
         description: ''
-        percent: 80
         icon: camera
       - name: Reading
         description: 'Recent favourite: The Seven Pillars of Statistical Wisdom by Stephen M. Stigler'
-        percent: 90
         icon: book
 
 languages:
