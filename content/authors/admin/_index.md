@@ -56,7 +56,7 @@ education:
     date_end: 2023-10-01
     summary: |
       GPA: 89%
-      Thesis about movie-fMRI as an acquisition state for functional connectivity-based precision pychiatry. Supervised by [Dr. Tamara Vanderwal](https://www.headspacestudios.org/team). Thesis grade: 95%. 
+      Thesis about movie-fMRI as an acquisition state for functional connectivity-based precision pychiatry. Supervised by Dr. Tamara Vanderwal. Thesis grade: 95%. 
     button:
       text: 'Read Thesis'
       url: 'https://open.library.ubc.ca/soa/cIRcle/collections/ubctheses/24/items/1.0435757'
@@ -112,6 +112,9 @@ skills:
         description: ''
         percent: 70
         icon: ''
+      - name: Git
+        percent: 70
+        icon: git
   - name: Hobbies
     color: '#eeac02'
     color_border: '#f0bf23'
@@ -127,7 +130,7 @@ skills:
       - name: Skiing
         description: ''
         percent: 70
-        icon: camera
+        icon: skiing
       - name: Slacklining
         description: ''
         percent: 80
