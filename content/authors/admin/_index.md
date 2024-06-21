@@ -148,31 +148,31 @@ awards:
   - title: Faculty of Medicine Graduate Award
     date: '2023-09-01'
     awarder: University of British Columbia
-    icon: 'custom/ubc.svg'
+    icon: 'ubc'
   - title: Best Lighning Talk
     date: '2023-06-01'
     awarder: University of British Columbia Psychiatry Research Day
-    icon: 'custom/ubc.svg'
+    icon: 'ubc'
   - title: 'Canadian Graduate Scholarship - Masters'
     date: '2022-05-01'
     awarder: Canadian Institute of Health Research (CIHR)
-    icon: 'custom/cihr.svg'
+    icon: cihr
   - title: 'UBC Graduate Student Travel Award'
     date: '2022-06-01'
     awarder: University of British Columbia
-    icon: 'custom/ubc.svg'
+    icon: 'ubc'
   - title: 'UBC Graduate Program in Neuroscience Travel Award'
     date: '2022-06-01'
     awarder: University of British Columbia
-    icon: 'custom/ubc.svg'
+    icon: 'ubc'
   - title: 'Faculty of Medicine Summer Student Research Award'
     date: '2021-04-01'
     awarder: University of British Columbia
-    icon: 'custom/ubc.svg'
+    icon: 'ubc'
   - title: 'Virtual Knowledge Exchange Grant'
     date: '2021-06-01'
     awarder: BC Children's Hospital Research Institute
-    icon: 'custom/bcchr.svg'
+    icon: bcchr
   
   
 ---
