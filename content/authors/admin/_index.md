@@ -111,17 +111,17 @@ skills:
       - name: Bash
         description: ''
         percent: 70
-        icon: {{< ico bootstrap terminal >}}
+        icon: ''
       - name: Git
         percent: 70
-        icon: {{< ico bootstrap git >}}
+        icon: ''
   - name: Hobbies
     color: '#eeac02'
     color_border: '#f0bf23'
     items:
       - name: Hiking
         description: ''
-        icon: {{< ico bootstrap person-walking >}}
+        icon: ''
       - name: Volleyball
         description: ''
         icon: ''
