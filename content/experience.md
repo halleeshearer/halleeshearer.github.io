@@ -32,4 +32,8 @@ sections:
     content:
       title: Languages
       username: admin
+  - block: resume-hobbies
+    content:
+      title: Hobbies
+      username: admin
 ---

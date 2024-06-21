@@ -111,13 +111,19 @@ skills:
       - name: Bash
         description: ''
         percent: 70
-        icon: <i class="fa-solid fa-terminal"></i>
+        icon: ''
       - name: Git
         percent: 70
         icon: ''
-  - name: Hobbies
-    color: '#eeac02'
-    color_border: '#f0bf23'
+
+languages:
+  - name: English
+    percent: 100
+  - name: French
+    percent: 75
+
+hobbies:
+  -name: Hobbies
     items:
       - name: Hiking
         description: ''
@@ -134,12 +140,6 @@ skills:
       - name: Reading
         description: 'Recent favourite: The Seven Pillars of Statistical Wisdom by Stephen M. Stigler'
         icon: ''
-
-languages:
-  - name: English
-    percent: 100
-  - name: French
-    percent: 75
 
 
 # Awards.
