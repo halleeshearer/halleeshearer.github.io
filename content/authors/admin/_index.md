@@ -1,17 +1,17 @@
 ---
 # Display name
-title: 吳健雄
+title: Hallee Shearer
 
 # Name pronunciation (optional)
-name_pronunciation: Chien Shiung Wu
+name_pronunciation: ''
 
 # Full name (for SEO)
-first_name: Shiung Wu
-last_name: Chien
+first_name: Hallee
+last_name: Shearer
 
 # Status emoji
 status:
-  icon: ☕️
+  icon: ''
 
 # Is this the primary user of the site?
 superuser: true
@@ -20,167 +20,167 @@ superuser: true
 highlight_name: true
 
 # Role/position/tagline
-role: Chief Scientist
+role: Research Technician
 
 # Organizations/Affiliations to display in Biography blox
 organizations:
-  - name: OpenAI
-    url: https://openai.com/
+  - name: NeuroPRISM Lab, Northeastern University
+    url: https://neuroprismlab.github.io/
 
 # Social network links
 # Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
 profiles:
   - icon: at-symbol
-    url: 'mailto:your-email@example.com'
+    url: 'halleeshearer@outlook.com'
     label: E-mail Me
   - icon: brands/x
-    url: https://twitter.com/GetResearchDev
-  - icon: brands/instagram
-    url: https://www.instagram.com/
+    url: https://twitter.com/ShearerHallee
   - icon: brands/github
-    url: https://github.com/gcushen
+    url: https://github.com/halleeshearer
   - icon: brands/linkedin
-    url: https://www.linkedin.com/
+    url: https://www.linkedin.com/in/halleeshearer
   - icon: academicons/google-scholar
-    url: https://scholar.google.com/
+    url: https://scholar.google.com/citations?user=1Z1GFQ0AAAAJ&hl=en
   - icon: academicons/orcid
-    url: https://orcid.org/
+    url: https://orcid.org/0000-0002-4813-3473
 
 interests:
-  - Artificial Intelligence
-  - Computational Linguistics
-  - Information Retrieval
+  - Neuroimaging
+  - Precision psychiatry
+  - Statistics
 
 education:
-  - area: PhD Artificial Intelligence
-    institution: Stanford University
-    date_start: 2016-01-01
-    date_end: 2020-12-31
+  - area: MSc Neuroscience
+    institution: University of British Columbia
+    date_start: 2021-09-01
+    date_end: 2023-10-01
     summary: |
-      Thesis on _Why LLMs are awesome_. Supervised by [Prof Joe Smith](https://example.com). Presented papers at 5 IEEE conferences with the contributions being published in 2 Springer journals.
+      GPA: 89%
+      Thesis about movie-fMRI as an acquisition state for functional connectivity-based precision pychiatry. Supervised by [Dr. Tamara Vanderwal](https://www.headspacestudios.org/team). Thesis grade: 95%. 
     button:
       text: 'Read Thesis'
-      url: 'https://example.com'
-  - area: MEng Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    date_start: 2016-01-01
-    date_end: 2020-12-31
+      url: 'https://open.library.ubc.ca/soa/cIRcle/collections/ubctheses/24/items/1.0435757'
+  - area: BSc Behavioral Neuroscience
+    institution: University of British Columbia
+    date_start: 2016-09-01
+    date_end: 2021-04-30
     summary: |
-      GPA: 3.8/4.0
-
-      Courses included:
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-  - area: BSc Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    date_start: 2016-01-01
-    date_end: 2020-12-31
-    summary: |
-      GPA: 3.4/4.0
-      
-      Courses included:
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
+      Research projects included:
+      - Graph theory analysis of functional connectivity in pediatric OCD
+      - Investigating the evolutionary basis of political conservatism
 work:
-  - position: Director of Cloud Infrastructure
-    company_name: GenCoin
-    company_url: ''
+  - position: Research Technician
+    company_name: NeuroPRISM Lab, Northeastern University
+    company_url: 'https://neuroprismlab.github.io/'
     company_logo: ''
-    date_start: 2021-01-01
+    date_start: 2023-12-01
     date_end: ''
     summary: |2-
-      Responsibilities include:
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-  - position: Backend Software Engineer
-    company_name: X
-    company_url: ''
+      Projects include:
+      - Leveraging large fMRI datasets to define typical study effects nd developing an effect size web app
+      - Developing nonparametric statistical methods for comparing test-retest reliability measures across conditions or groups
+      Supervised by: Dr. Stephanie Noble
+  - position: Research Assistant
+    company_name: Non-Invasive Neurostimulation Therapies Laboratory, UBC
+    company_url: 'https://ninet.med.ubc.ca/'
     company_logo: ''
-    date_start: 2016-01-01
-    date_end: 2020-12-31
+    date_start: 2019-05-01
+    date_end: 2020-04-30
     summary: |
-      Responsibilities include:
-      - Migrated infrastructure to a new data center
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
+      Responsibilities included:
+      - Administered Transcranial Magnetic Stimulation treatments in the context of clinical trials
+      - Collected vital signs data during Electroconvulsive Therapy treatments
 
 # Skills
 # Add your own SVG icons to `assets/media/icons/`
 skills:
-  - name: Technical Skills
+  - name: Coding Skills
     items:
       - name: Python
         description: ''
         percent: 80
         icon: code-bracket
-      - name: Data Science
+      - name: R
         description: ''
-        percent: 100
+        percent: 80
         icon: chart-bar
-      - name: SQL
+      - name: MATLAB
         description: ''
-        percent: 40
+        percent: 60
         icon: circle-stack
+      - name: Bash
+        description: ''
+        percent: 70
+        icon: ''
   - name: Hobbies
     color: '#eeac02'
     color_border: '#f0bf23'
     items:
       - name: Hiking
         description: ''
-        percent: 60
+        percent: 80
         icon: person-simple-walk
-      - name: Cats
+      - name: Volleyball
         description: ''
-        percent: 100
+        percent: 90
         icon: cat
-      - name: Photography
+      - name: Skiing
+        description: ''
+        percent: 70
+        icon: camera
+      - name: Slacklining
         description: ''
         percent: 80
         icon: camera
+      - name: Reading
+        description: 'Recent favourite: The Seven Pillars of Statistical Wisdom by Stephen M. Stigler'
+        percent: 90
+        icon: book
 
 languages:
   - name: English
     percent: 100
-  - name: Chinese
+  - name: French
     percent: 75
-  - name: Portuguese
-    percent: 25
+
 
 # Awards.
 #   Add/remove as many awards below as you like.
 #   Only `title`, `awarder`, and `date` are required.
 #   Begin multi-line `summary` with YAML's `|` or `|2-` multi-line prefix and indent 2 spaces below.
 awards:
-  - title: Neural Networks and Deep Learning
-    url: https://www.coursera.org/learn/neural-networks-deep-learning
-    date: '2023-11-25'
-    awarder: Coursera
-    icon: coursera
-    summary: |
-      I studied the foundational concept of neural networks and deep learning. By the end, I was familiar with the significant technological trends driving the rise of deep learning; build, train, and apply fully connected deep neural networks; implement efficient (vectorized) neural networks; identify key parameters in a neural network’s architecture; and apply deep learning to your own applications.
-  - title: Blockchain Fundamentals
-    url: https://www.edx.org/professional-certificate/uc-berkeleyx-blockchain-fundamentals
-    date: '2023-07-01'
-    awarder: edX
-    icon: edx
-    summary: |
-      Learned:
-      - Synthesize your own blockchain solutions
-      - Gain an in-depth understanding of the specific mechanics of Bitcoin
-      - Understand Bitcoin’s real-life applications and learn how to attack and destroy Bitcoin, Ethereum, smart contracts and Dapps, and alternatives to Bitcoin’s Proof-of-Work consensus algorithm
-  - title: 'Object-Oriented Programming in R'
-    url: https://www.datacamp.com/courses/object-oriented-programming-with-s3-and-r6-in-r
-    certificate_url: https://www.datacamp.com
-    date: '2023-01-21'
-    awarder: datacamp
-    icon: datacamp
-    summary: |
-      Object-oriented programming (OOP) lets you specify relationships between functions and the objects that they can act on, helping you manage complexity in your code. This is an intermediate level course, providing an introduction to OOP, using the S3 and R6 systems. S3 is a great day-to-day R programming tool that simplifies some of the functions that you write. R6 is especially useful for industry-specific analyses, working with web APIs, and building GUIs.
+  - title: Faculty of Medicine Graduate Award
+    date: '2023-09-01'
+    awarder: University of British Columbia
+    icon: UBC
+  - title: Best Lighning Talk
+    date: '2023-06-01'
+    awarder: University of British Columbia Psychiatry Research Day
+    icon: UBC
+  - title: 'Canadian Graduate Scholarship - Masters'
+    date: '2022-05-01'
+    awarder: Canadian Institute of Health Research (CIHR)
+    icon: CIHR
+  - title: 'UBC Graduate Student Travel Award'
+    date: '2022-06-01'
+    awarder: University of British Columbia
+    icon: UBC
+  - title: 'UBC Graduate Program in Neuroscience Travel Award'
+    date: '2022-06-01'
+    awarder: University of British Columbia
+    icon: UBC
+  - title: 'Faculty of Medicine Summer Student Research Award'
+    date: '2021-04-01'
+    awarder: University of British Columbia
+    icon: UBC
+  - title: 'Virtual Knowledge Exchange Grant'
+    date: '2021-06-01'
+    awarder: BC Children's Hospital Research Institute
+    icon: BCCHR
+  
+  
 ---
 
 ## About Me
 
-Chien Shiung Wu is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+Currently a Research Technician at Northeastern University with Dr. Stephanie Noble working on improving statistical methods for neuroimaging. I completed my M.Sc in Neuroscience at the University of British Columbia in 2023, focusing on the use of movie-fMRI for precision psychiatry.
