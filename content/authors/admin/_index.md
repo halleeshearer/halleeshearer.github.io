@@ -160,19 +160,19 @@ awards:
   - title: 'UBC Graduate Student Travel Award'
     date: '2022-06-01'
     awarder: University of British Columbia
-    icon: UBC
+    icon: "custom/ubc.png"
   - title: 'UBC Graduate Program in Neuroscience Travel Award'
     date: '2022-06-01'
     awarder: University of British Columbia
-    icon: UBC
+    icon: "custom/ubc.png"
   - title: 'Faculty of Medicine Summer Student Research Award'
     date: '2021-04-01'
     awarder: University of British Columbia
-    icon: UBC
+    icon: "custom/ubc.png"
   - title: 'Virtual Knowledge Exchange Grant'
     date: '2021-06-01'
     awarder: BC Children's Hospital Research Institute
-    icon: BCCHR
+    icon: "custom/bcchr.png"
   
   
 ---
