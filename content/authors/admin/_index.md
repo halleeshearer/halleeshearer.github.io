@@ -115,14 +115,6 @@ skills:
       - name: Git
         percent: 70
         icon: ''
-
-languages:
-  - name: English
-    percent: 100
-  - name: French
-    percent: 75
-
-hobbies:
   - name: Hobbies
     items:
       - name: Hiking
@@ -140,6 +132,12 @@ hobbies:
       - name: Reading
         description: 'Recent favourite: The Seven Pillars of Statistical Wisdom by Stephen M. Stigler'
         icon: ''
+
+languages:
+  - name: English
+    percent: 100
+  - name: French
+    percent: 75
 
 
 # Awards.
