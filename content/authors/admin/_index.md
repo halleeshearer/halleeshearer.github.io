@@ -111,7 +111,7 @@ skills:
       - name: Bash
         description: ''
         percent: 70
-        icon: ''
+        icon: '{{< ico bootstrap house >}}'
       - name: Git
         percent: 70
         icon: ''
