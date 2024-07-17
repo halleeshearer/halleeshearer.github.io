@@ -6,7 +6,6 @@ authors:
 - Hallee Shearer
 - Jeffrey Eilbott
 - Tamara Vanderwal
-date: "2022-04-014T00:00:00Z"
 doi: "https://doi.org/10.1371/journal.pone.0265112"
 
 # Schedule page publish date (NOT publication's date).
