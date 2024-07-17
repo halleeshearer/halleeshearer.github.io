@@ -30,6 +30,17 @@ sections:
           size: cover
           position: center
           parallax: false
+  - block: collection
+    id: publications
+    content:
+      title: Publications
+      filters:
+        folders:
+          - publication
+        category: archival
+    design:
+      columns: '1'
+      view: list
   - block: cta-card
     demo: true # Only display this section in the Hugo Blox Builder demo site
     content:
