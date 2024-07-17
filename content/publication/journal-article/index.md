@@ -3,7 +3,7 @@ title: "Getting the nod: Pediatric head motion in a transdiagnostic sample durin
 authors:
 - Simon Frew
 - Ahmad Samara
-- Hallee Shearer
+- admin
 - Jeffrey Eilbott
 - Tamara Vanderwal
 doi: "https://doi.org/10.1371/journal.pone.0265112"
