@@ -24,7 +24,7 @@ sections:
         color: black
         image:
           # Add your image background to `assets/media/`.
-          filename: Presentation2.png
+          filename: water.png
           filters:
             brightness: 1.0
           size: cover
