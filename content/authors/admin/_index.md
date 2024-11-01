@@ -55,8 +55,7 @@ education:
     date_start: 2021-09-01
     date_end: 2023-10-01
     summary: |
-      GPA: 89%
-      Thesis about movie-fMRI as an acquisition state for functional connectivity-based precision pychiatry. Supervised by Dr. Tamara Vanderwal. Thesis grade: 95%. 
+      Thesis about movie-fMRI as an acquisition state for functional connectivity-based precision pychiatry. Supervised by Dr. Tamara Vanderwal. 
     button:
       text: 'Read Thesis'
       url: 'https://open.library.ubc.ca/soa/cIRcle/collections/ubctheses/24/items/1.0435757'
@@ -77,7 +76,7 @@ work:
     date_end: ''
     summary: |2-
       Projects include:
-      - Leveraging large fMRI datasets to define typical study effects nd developing an effect size web app
+      - Leveraging large fMRI datasets to define typical study effects and developing an effect size web app
       - Developing nonparametric statistical methods for comparing test-retest reliability measures across conditions or groups
       Supervised by: Dr. Stephanie Noble
   - position: Research Assistant
@@ -86,10 +85,6 @@ work:
     company_logo: ''
     date_start: 2019-05-01
     date_end: 2020-04-30
-    summary: |
-      Responsibilities included:
-      - Administered Transcranial Magnetic Stimulation treatments in the context of clinical trials
-      - Collected vital signs data during Electroconvulsive Therapy treatments
 
 # Skills
 # Add your own SVG icons to `assets/media/icons/`
@@ -149,7 +144,7 @@ awards:
     date: '2023-09-01'
     awarder: University of British Columbia
     icon: ''
-  - title: Best Lighning Talk
+  - title: Lightning Talk Award
     date: '2023-06-01'
     awarder: University of British Columbia Psychiatry Research Day
     icon: ''
