@@ -13,4 +13,7 @@ main:
   - name: Papers
     url: papers/
     weight: 40
+  - name: BrainEffeX
+    url: 'http://52.15.83.213:3838/BrainEffeX/'
+    weight: 50
 
