@@ -53,3 +53,6 @@ security:
   _merge: deep
 sitemap:
   _merge: deep
+services:
+  googleAnalytics:
+    ID: G-R7PT6X4DK0
