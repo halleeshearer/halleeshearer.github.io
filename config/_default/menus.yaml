@@ -14,7 +14,7 @@ main:
     url: papers/
     weight: 40
   - name: Lexicon
-    url: lexicon/
+    url: 'lexicongame.live'
     weight: 50 
   # - name: BrainEffeX
   #   url: 'http://52.15.83.213:3838/BrainEffeX/'
