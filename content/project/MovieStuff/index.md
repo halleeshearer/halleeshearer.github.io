@@ -1,5 +1,5 @@
 ---
-title: MovieStuff
+title: Movie fMRI Reliability
 date: 2024-05-01
 external_link: https://vanderlab.shinyapps.io/movie_stuff/
 ---
