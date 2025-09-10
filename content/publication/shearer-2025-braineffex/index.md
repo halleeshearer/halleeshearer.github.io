@@ -37,7 +37,7 @@ voxel-wise and multivariate effect size estimates from “typical” fMRI study 
 brain-behavior correlation, task vs. rest, and between-group analyses of functional
 connectivity and task-based activation maps. The app is intentionally designed as a growing
 resource, and we welcome contributions of large (n > 500) datasets.'
-url_pdf: https://doi.org/10.1371/journal.pone.0265112
+url_pdf: https://osf.io/preprints/osf/kryn4_v3
 url_code: https://github.com/neuroprismlab/BrainEffeX
 image:
   caption: ''
