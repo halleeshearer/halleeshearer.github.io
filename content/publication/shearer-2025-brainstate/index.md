@@ -1,5 +1,5 @@
 ---
-title: '(PREPRINT) BrainEffeX: A Web App for Exploring fMRI Effect Sizes'
+title: '(PREPRINT) Considering brain state for individualized functional connectivity-based rTMS'
 authors:
 - Hallee Shearer
 - Jeffrey Eilbott
