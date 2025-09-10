@@ -20,7 +20,7 @@ superuser: true
 highlight_name: true
 
 # Role/position/tagline
-role: Research Technician
+role: PhD Student
 
 # Organizations/Affiliations to display in Biography blox
 organizations:
@@ -31,10 +31,8 @@ organizations:
 # Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
 profiles:
   - icon: at-symbol
-    url: 'halleeshearer@outlook.com'
+    url: 'shearer.h@northeastern.edu'
     label: E-mail Me
-  - icon: brands/x
-    url: https://twitter.com/ShearerHallee
   - icon: brands/github
     url: https://github.com/halleeshearer
   - icon: brands/linkedin
@@ -73,7 +71,7 @@ work:
     company_url: 'https://neuroprismlab.github.io/'
     company_logo: ''
     date_start: 2023-12-01
-    date_end: ''
+    date_end: 2025-09-01
     summary: |2-
       Projects include:
       - Leveraging large fMRI datasets to define typical study effects and developing an effect size web app
@@ -174,4 +172,4 @@ awards:
 
 ## About Me
 
-Currently a Research Technician at Northeastern University with Dr. Stephanie Noble working on improving statistical methods for neuroimaging. I completed my M.Sc in Neuroscience at the University of British Columbia in 2023, focusing on the use of movie-fMRI for precision psychiatry.
+Currently a PhD student at Northeastern University with Dr. Stephanie Noble working on improving statistical methods for neuroimaging. I completed my M.Sc in Neuroscience at the University of British Columbia in 2023, focusing on the use of movie-fMRI for precision psychiatry.
