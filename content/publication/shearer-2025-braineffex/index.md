@@ -1,5 +1,5 @@
 ---
-title: 'BrainEffeX: A Web App for Exploring fMRI Effect Sizes'
+title: '(PREPRINT) BrainEffeX: A Web App for Exploring fMRI Effect Sizes'
 authors:
 - Hallee Shearer
 - Matt Rosenblatt
